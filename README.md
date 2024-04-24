@@ -1,5 +1,4 @@
 ## Foundry with zkSync Era v0.2-alpha
-
 This repository enhances Foundry to support zkSync Era, enabling Solidity-based compilation, deployment, testing, and interaction with smart contracts on zkSync Era.
 
 > 🔧 **Fork Notice:** This is a Foundry fork with added zkSync support.
